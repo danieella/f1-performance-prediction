@@ -11,7 +11,7 @@ We performed exploratory data analysis (EDA) on multiple datasets including driv
 - Developed project presentation video to translate technical findings
 
 **Results:**
-The project identified several performance indicators that strongly correlate with race outcomes, including pit stop efficiency and environmental conditions. Our models demonstrated the potential of machine learning approaches for sports performance analytics.
+The project identified several performance indicators that strongly correlate with race outcomes, including pit stop efficiency and environmental conditions. Our models demonstrated machine learning approaches for sports performance.
 
 ## Project Notebook
 You can view the full analysis here:
