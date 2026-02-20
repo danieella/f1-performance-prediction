@@ -16,5 +16,7 @@ The project identified several performance indicators that strongly correlate wi
 ## Project Notebook
 You can view the full analysis here:
 
-Final Project Notebook: (FinalProject_Group129-FA24.ipynb)
+**Final Project Notebook:** [FinalProject_Group129-FA24.ipynb]
+
+
 
